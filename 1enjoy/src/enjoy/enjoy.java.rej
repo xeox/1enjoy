@@ -1,0 +1,12 @@
+diff a/1enjoy/src/enjoy/enjoy.java b/1enjoy/src/enjoy/enjoy.java	(rejected hunks)
+@@ -4,7 +4,9 @@
+ 
+ 	public static void main(String[] args) {
+ 		
+-		System.out.println("1enjoy");
++		System.out.println("�귱ġ�߰�1"+
++				"�귱ġ�߰�2"
++				+"�귱ġ�߰�3");
+ 	}
+ 
+ }
